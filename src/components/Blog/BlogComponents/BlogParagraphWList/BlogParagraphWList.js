@@ -1,5 +1,5 @@
 function BlogParagraphWList({ blogParagraph }) {
-  return <div className="blogs__paragraph">{blogParagraph}</div>;
+  return <p className="blogs__paragraph">{blogParagraph}</p>;
 }
 
 export default BlogParagraphWList;

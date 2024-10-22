@@ -11,7 +11,7 @@ import FcDallas from "../Pages/Soccer/Mens/Mls/FcDallas/FcDallas";
 
 import ClasicoTejanoFcDallasVsHoustonDynamoFc from "../Blog/Blogs/Soccer/Mens/Mls/FcDallas/202404/ClasicoTejanoFcDallasVsHoustonDynamoFc";
 import FcDallasMandaAKansasCityFueraDePlayOffs from "../Blog/Blogs/Soccer/Mens/Mls/FcDallas/202410/FcDallasMandaAKansasCityFueraDePlayOffs";
-import NorthTexasScAvanzaASemifinales from "../Blog/Blogs/Soccer/Mens/MlsNextPro/NorthTexasSc/202410/NorthTexasScAvananzaASemifinales";
+import NorthTexasScAvanzaASemifinales from "../Blog/Blogs/Soccer/Mens/MlsNextPro/NTxSC/202410/NorthTexasScAvananzaASemifinales";
 import FcDallasAplastaALaFcConDominioTotalYRachaExtendida from "../Blog/Blogs/Soccer/Mens/Mls/FcDallas/202409/FcDallasAplastaALaFcConDominioTotalYRachaExtendida";
 
 function App() {

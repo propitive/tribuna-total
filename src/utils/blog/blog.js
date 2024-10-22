@@ -1,10 +1,6 @@
-import ttLogo from "../../images/icons/ttLogo.png";
-import testImage1 from "../../images/testImage1.jpg";
-import testImage2 from "../../images/testImage2.png";
-import testImage3 from "../../images/testImage3.png";
-
 import apr182024 from "../../images/blogCovers/202404/celebration.jpg";
 import sep212024 from "../../images/blogCovers/202409/crowd.jpg";
+import oct212024 from "../../images/blogCovers/202410/celebrationNTxSCVan.jpg";
 import nov192024 from "../../images/blogCovers/202410/celebrationKSLandscape.png";
 
 import fcDallasLogo from "../../images/teams/soccer/mls/fcDallas.png";
@@ -13,7 +9,7 @@ import northTexasSc from "../../images/teams/soccer/mlsnextpro/northTexasSc.png"
 export const generalBlogs = [
   {
     link: "/soccer/mens/mlsnextpro/northtexassc/north-texas-sc-avanza-a-semifinales",
-    image: testImage3,
+    image: oct212024,
     alt: "North Texas SC celebrating their advancement to the semifinals.",
     timeOfPost: "Oct 21, 2024",
     title: "North Texas SC Avanza A Semifinales",
