@@ -77,13 +77,6 @@ function NorthTexasScAvanzaASemifinales() {
             </>
           }
         />
-
-        <BlogImage
-          blogImage={fansVan}
-          blogImageAlt={
-            "North Texas SC's fans celebrating their team's fantastic performace."
-          }
-        />
       </Blogs>
     </>
   );
