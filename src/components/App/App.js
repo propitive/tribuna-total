@@ -13,6 +13,7 @@ import ClasicoTejanoFcDallasVsHoustonDynamoFc from "../Blog/Blogs/Soccer/Mens/Ml
 import FcDallasMandaAKansasCityFueraDePlayOffs from "../Blog/Blogs/Soccer/Mens/Mls/FcDallas/202410/FcDallasMandaAKansasCityFueraDePlayOffs";
 import NorthTexasScAvanzaASemifinales from "../Blog/Blogs/Soccer/Mens/MlsNextPro/NTxSC/202410/NorthTexasScAvananzaASemifinales";
 import FcDallasAplastaALaFcConDominioTotalYRachaExtendida from "../Blog/Blogs/Soccer/Mens/Mls/FcDallas/202409/FcDallasAplastaALaFcConDominioTotalYRachaExtendida";
+import NocheDeCampeonatoEnElEstadioToyotaNorthTexasScEEnSuPaseALaFinal from "../Blog/Blogs/Soccer/Mens/MlsNextPro/NTxSC/202411/NocheDeCampeonatoEnElEstadioToyotaNorthTexasScEEnSuPaseALaFinal ";
 
 function App() {
   const [modals, setModals] = useState({
@@ -54,6 +55,12 @@ function App() {
           path="/soccer/mens/mlsnextpro/northtexassc/north-texas-sc-avanza-a-semifinales"
         >
           <NorthTexasScAvanzaASemifinales />
+        </Route>
+        <Route
+          exact
+          path="/soccer/mens/mlsnextpro/northtexassc/noche-de-campeonato-en-el-estadio-toyota-north-texas-sc-en-su-pase-a-la-final"
+        >
+          <NocheDeCampeonatoEnElEstadioToyotaNorthTexasScEEnSuPaseALaFinal />
         </Route>
         <Route path="/">
           <Main />
