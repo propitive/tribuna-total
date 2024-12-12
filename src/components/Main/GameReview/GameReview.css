@@ -51,6 +51,11 @@
   );
 }
 
+.dallasTrinityFc {
+  background: #37031c;
+  background: radial-gradient(at center, #37031c, #7377e2);
+}
+
 .g-review__header-image {
   height: 64px;
 }

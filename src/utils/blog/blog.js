@@ -3,11 +3,26 @@ import sep212024 from "../../images/blogCovers/202409/crowd.jpg";
 import oct212024 from "../../images/blogCovers/202410/celebrationNTxSCVan.jpg";
 import nov192024 from "../../images/blogCovers/202410/celebrationKSLandscape.png";
 import nov092024 from "../../images/blogCovers/202411/nov092024.jpeg";
+import dec082024 from "../../images/blogCovers/202412/trinityDribbling.PNG";
 
-import fcDallasLogo from "../../images/teams/soccer/mls/fcDallas.png";
-import northTexasSc from "../../images/teams/soccer/mlsnextpro/northTexasSc.png";
+import fcDallasLogo from "../../images/teams/soccer/mens/mls/fcDallas.png";
+import northTexasSc from "../../images/teams/soccer/mens/mlsnextpro/northTexasSc.png";
+import dallasTrinity from "../../images/teams/soccer/womens/usl/dallasTrinity.png";
 
 export const generalBlogs = [
+  {
+    link: "/soccer/womens/USL/DallasTrinity/dallas-trinity-fc-segura-su-lugar-en-la-tabla-contra-tampa-bay-fc",
+    image: dec082024,
+    alt: "Player from Dalls Trinity dribbling the ball.",
+    timeOfPost: "Dec 8, 2024",
+    title: "Dallas Trinity FC Segura Su Lugar En La Tabla Contra Tampa Bay FC",
+    author: "Felipe de Jesus Alcala",
+    keyword: "Dallas Trinity FC",
+    teamName: "Dallas Trinity FC",
+    headerSubtitle: "vs Tampa Bay Sun FC",
+    teamLogo: dallasTrinity,
+    id: 6,
+  },
   {
     link: "/soccer/mens/mlsnextpro/northtexassc/noche-de-campeonato-en-el-estadio-toyota-north-texas-sc-en-su-pase-a-la-final",
     image: nov092024,

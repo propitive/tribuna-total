@@ -8,6 +8,8 @@ function GameReview({ blog }) {
         return "fcdallas";
       case "North Texas SC":
         return "northTexasSc";
+      case "Dallas Trinity FC":
+        return "dallasTrinityFc";
       case "USNMT":
         return "usnmt";
       case "Austin FC":

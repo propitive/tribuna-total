@@ -2,7 +2,7 @@ import apr182024 from "../../../../../../../images/blogCovers/202404/celebration
 import sep212024 from "../../../../../../../images/blogCovers/202409/crowd.jpg";
 import nov192024 from "../../../../../../../images/blogCovers/202410/celebrationKSLandscape.png";
 
-import fcDallasLogo from "../../../../../../../images/teams/soccer/mls/fcDallas.png";
+import fcDallasLogo from "../../../../../../../images/teams/soccer/mens/mls/fcDallas.png";
 
 export const fcDallasBlogs = [
   {
