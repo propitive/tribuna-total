@@ -11,11 +11,12 @@ import dallasTrinity from "../../images/teams/soccer/womens/usl/dallasTrinity.pn
 
 export const generalBlogs = [
   {
-    link: "/soccer/womens/USL/DallasTrinity/dallas-trinity-fc-segura-su-lugar-en-la-tabla-contra-tampa-bay-fc",
+    link: "/soccer/womens/USL/DallasTrinity/dallas-trinity-fc-consigue-una-vicotria-importante-en-casa-y-se-perfilan-para-la-liguilla",
     image: dec082024,
     alt: "Player from Dalls Trinity dribbling the ball.",
     timeOfPost: "Dec 8, 2024",
-    title: "Dallas Trinity FC Segura Su Lugar En La Tabla Contra Tampa Bay FC",
+    title:
+      "Dallas Trinity FC consigue una victoria importante en casa y se perfilan para la Liguilla",
     author: "Felipe de Jesus Alcala",
     keyword: "Dallas Trinity FC",
     teamName: "Dallas Trinity FC",

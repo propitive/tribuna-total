@@ -32,7 +32,7 @@ function NocheDeCampeonatoEnElEstadioToyotaNorthTexasScEEnSuPaseALaFinal() {
         blogDate={"Nov 9, 2024"}
         blogPhotographer={"Rene Gonzalez"}
         blogTitle={
-          "Noche de Campeonato en el Estadio Toyota North Texas SC en su pase a la final."
+          "Noche de Campeonato en el Estadio Toyota North Texas SC en su pase a la final"
         }
       >
         <BlogImage

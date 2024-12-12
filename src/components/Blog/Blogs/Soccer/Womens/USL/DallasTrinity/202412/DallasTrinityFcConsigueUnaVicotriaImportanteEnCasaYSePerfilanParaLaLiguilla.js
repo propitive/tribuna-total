@@ -8,21 +8,21 @@ import trinityDribbling from "./trinityDribbling.PNG";
 import trinityKicking from "./trinityKicking.PNG";
 import trinityTackle from "./trinityTackle.PNG";
 
-function DallasTrinityFCSeguraSuLugarEnLaTablaContraTampaBayFC() {
+function DallasTrinityFcConsigueUnaVicotriaImportanteEnCasaYSePerfilanParaLaLiguilla() {
   return (
     <>
       <Helmet>
         <title>
-          Dallas Trinity FC Segura Su Lugar En La Tabla Contra Tampa Bay FC |
-          Avanti Enterprises
+          Dallas Trinity FC consigue una victoria importante en casa y se
+          perfilan para la Liguilla
         </title>
         <meta
           name="description"
-          content="Dallas Trinity FC Segura Su Lugar En La Tabla Contra Tampa Bay FC."
+          content="Dallas Trinity FC consigue una victoria importante en casa y se perfilan para la Liguilla"
         />
         <link
           rel="canonical"
-          href="/soccer/womens/USL/DallasTrinity/dallas-trinity-fc-segura-su-lugar-en-la-tabla-contra-tampa-bay-fc"
+          href="/soccer/womens/USL/DallasTrinity/dallas-trinity-fc-consigue-una-vicotria-importante-en-casa-y-se-perfilan-para-la-liguilla"
         />
       </Helmet>
 
@@ -31,7 +31,7 @@ function DallasTrinityFCSeguraSuLugarEnLaTablaContraTampaBayFC() {
         blogDate={"Dec 8, 2024"}
         blogPhotographer={"David Saldivar"}
         blogTitle={
-          "Dallas Trinity FC Segura Su Lugar En La Tabla Contra Tampa Bay FC."
+          "Dallas Trinity FC consigue una victoria importante en casa y se perfilan para la Liguilla"
         }
       >
         <BlogImage
@@ -76,4 +76,4 @@ function DallasTrinityFCSeguraSuLugarEnLaTablaContraTampaBayFC() {
   );
 }
 
-export default DallasTrinityFCSeguraSuLugarEnLaTablaContraTampaBayFC;
+export default DallasTrinityFcConsigueUnaVicotriaImportanteEnCasaYSePerfilanParaLaLiguilla;
