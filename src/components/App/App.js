@@ -15,6 +15,7 @@ import NorthTexasScAvanzaASemifinales from "../Blog/Blogs/Soccer/Mens/MlsNextPro
 import FcDallasAplastaALaFcConDominioTotalYRachaExtendida from "../Blog/Blogs/Soccer/Mens/Mls/FcDallas/202409/FcDallasAplastaALaFcConDominioTotalYRachaExtendida";
 import NocheDeCampeonatoEnElEstadioToyotaNorthTexasScEEnSuPaseALaFinal from "../Blog/Blogs/Soccer/Mens/MlsNextPro/NTxSC/202411/NocheDeCampeonatoEnElEstadioToyotaNorthTexasScEEnSuPaseALaFinal ";
 import DallasTrinityFcConsigueUnaVicotriaImportanteEnCasaYSePerfilanParaLaLiguilla from "../Blog/Blogs/Soccer/Womens/USL/DallasTrinity/202412/DallasTrinityFcConsigueUnaVicotriaImportanteEnCasaYSePerfilanParaLaLiguilla";
+import MansfieldLaNuevaCasaDeNorthTexasSc from "../Blog/Blogs/Soccer/Mens/MlsNextPro/NTxSC/202412/MansfieldLaNuevaCasaDeNorthTexasSc";
 
 function App() {
   const [modals, setModals] = useState({
@@ -50,6 +51,12 @@ function App() {
         </Route>
         <Route exact path="/soccer/mens/mls/fc-dallas">
           <FcDallas />
+        </Route>
+        <Route
+          exact
+          path="/soccer/mens/mlsnextpro/northtexassc/mansfield-la-nueva-casa-de-north-texas-sc"
+        >
+          <MansfieldLaNuevaCasaDeNorthTexasSc />
         </Route>
         <Route
           exact

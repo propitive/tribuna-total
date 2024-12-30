@@ -4,12 +4,26 @@ import oct212024 from "../../images/blogCovers/202410/celebrationNTxSCVan.jpg";
 import nov192024 from "../../images/blogCovers/202410/celebrationKSLandscape.png";
 import nov092024 from "../../images/blogCovers/202411/nov092024.jpeg";
 import dec082024 from "../../images/blogCovers/202412/trinityDribbling.PNG";
+import dec302024 from "../../images/blogCovers/202412/businessMen.jpg";
 
 import fcDallasLogo from "../../images/teams/soccer/mens/mls/fcDallas.png";
 import northTexasSc from "../../images/teams/soccer/mens/mlsnextpro/northTexasSc.png";
 import dallasTrinity from "../../images/teams/soccer/womens/usl/dallasTrinity.png";
 
 export const generalBlogs = [
+  {
+    link: "/soccer/mens/mlsnextpro/northtexassc/mansfield-la-nueva-casa-de-north-texas-sc",
+    image: dec302024,
+    alt: "Business men starting construction for new stadium.",
+    timeOfPost: "Dec 30, 2024",
+    title: "Mansfield La Nueva Casa de North Texas SC",
+    author: "Felipe de Jesus Alcala",
+    keyword: "North Texas SC",
+    teamName: "North Texas SC",
+    headerSubtitle: "",
+    teamLogo: northTexasSc,
+    id: 7,
+  },
   {
     link: "/soccer/womens/USL/DallasTrinity/dallas-trinity-fc-consigue-una-vicotria-importante-en-casa-y-se-perfilan-para-la-liguilla",
     image: dec082024,
