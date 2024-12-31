@@ -12,7 +12,7 @@ function MansfieldLaNuevaCasaDeNorthTexasSc() {
   return (
     <>
       <Helmet>
-        <title>Mansfield La Nueva Casa de North Texas SC</title>
+        <title>Mansfield la nueva casa de North Texas SC</title>
         <meta
           name="description"
           content="Mansfield La Nueva Casa de North Texas SC"
