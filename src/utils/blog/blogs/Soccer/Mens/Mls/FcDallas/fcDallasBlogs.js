@@ -2,10 +2,24 @@ import apr182024 from "../../../../../../../images/blogCovers/202404/celebration
 import sep212024 from "../../../../../../../images/blogCovers/202409/crowd.jpg";
 import nov192024 from "../../../../../../../images/blogCovers/202410/celebrationKSLandscape.png";
 import mar122025 from "../../../../../../../images/blogCovers/202503/cFire1.jpeg";
+import mar152025 from "../../../../../../../images/blogCovers/202503/vancouver2.jpg";
 
 import fcDallasLogo from "../../../../../../../images/teams/soccer/mens/mls/fcDallas.png";
 
 export const fcDallasBlogs = [
+  {
+    link: "/soccer/mens/mls/fc-dallas/fc-dallas-cae-en-casa-ante-vancouver-y-sigue-sin-levantar-cabeza",
+    image: mar152025,
+    alt: "FC Dallas' dribbling the ball forward.",
+    timeOfPost: "Mar 15, 2025",
+    title: "Fc Dallas cae en casa ante Vancouver y sigue sin levantar cabeza",
+    author: "Felipe de Jesus Alcala",
+    keyword: "FC DALLAS",
+    teamName: "Fc Dallas",
+    headerSubtitle: "vs Vancouver Whitecaps",
+    teamLogo: fcDallasLogo,
+    id: 5,
+  },
   {
     link: "/soccer/mens/mls/fc-dallas/fc-dallas-inicia-la-temporada-con-derrota-en-casa-ante-chicago-fire",
     image: mar122025,
