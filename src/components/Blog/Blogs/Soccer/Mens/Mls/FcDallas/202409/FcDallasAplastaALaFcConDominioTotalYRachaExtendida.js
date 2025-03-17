@@ -12,8 +12,7 @@ function FcDallasAplastaALaFcConDominioTotalYRachaExtendida() {
     <>
       <Helmet>
         <title>
-          FC Dallas Aplasta a LAFC con Dominio Total y Racha Extendida | Avanti
-          Enterprises
+          FC Dallas Aplasta a LAFC con Dominio Total y Racha Extendida
         </title>
         <meta
           name="description"

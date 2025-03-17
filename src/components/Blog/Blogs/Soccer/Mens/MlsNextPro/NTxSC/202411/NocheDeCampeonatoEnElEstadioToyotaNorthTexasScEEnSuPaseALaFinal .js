@@ -15,7 +15,7 @@ function NocheDeCampeonatoEnElEstadioToyotaNorthTexasScEEnSuPaseALaFinal() {
       <Helmet>
         <title>
           Noche de Campeonato en el Estadio Toyota North Texas SC en su pase a
-          la final | Avanti Enterprises
+          la final
         </title>
         <meta
           name="description"

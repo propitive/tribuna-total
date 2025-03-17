@@ -14,7 +14,7 @@ function NorthTexasScAvanzaASemifinales() {
   return (
     <>
       <Helmet>
-        <title>North Texas SC Avanza A Semifinales | Avanti Enterprises</title>
+        <title>North Texas SC Avanza A Semifinales </title>
         <meta
           name="description"
           content="FC Dallas vence 2-1 a Sporting KC en el cierre de la MLS en Toyota Stadium. Goles de Petar Musa y un autogol de Fernández sellaron la victoria ante 19,096 fans."

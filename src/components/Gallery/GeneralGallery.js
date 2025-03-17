@@ -7,10 +7,10 @@ function GeneralGallery() {
   return (
     <>
       <Helmet>
-        <title>Project Gallery | Avanti Enterprises</title>
+        <title>Project Gallery</title>
         <meta
           name="description"
-          content="Explore our gallery and read client testimonials to see how Avanti Enterprises transforms kitchens and bathrooms with custom cabinets and expert remodeling services."
+          content="Nuestra misión es darte una cobertura completa, análisis experto y las últimas noticias de los deportes que te gustan, mientras celebramos el espíritu de competencia que nos une a todos."
         />
         <link rel="canonical" href="/gallery" />
       </Helmet>

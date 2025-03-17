@@ -15,7 +15,7 @@ export const fcDallasBlogs = [
       "Fc Dallas inicia la temporada con derrota en casa ante Chicago Fire",
     author: "Felipe de Jesus Alcala",
     keyword: "FC DALLAS",
-    teamName: "FC Dallas",
+    teamName: "Fc Dallas",
     headerSubtitle: "vs Chicago Fire",
     teamLogo: fcDallasLogo,
     id: 4,

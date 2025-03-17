@@ -11,7 +11,7 @@ function GeneralBlog() {
         <title>Tribuna Total</title>
         <meta
           name="description"
-          content="Explore the Avanti Enterprises blog for expert tips on kitchen and bathroom cabinet remodeling in Dallas-Fort Worth. Get design ideas, trends, and home improvement advice."
+          content="Nuestra misión es darte una cobertura completa, análisis experto y las últimas noticias de los deportes que te gustan, mientras celebramos el espíritu de competencia que nos une a todos."
         />
         <link rel="canonical" href="/" />
       </Helmet>

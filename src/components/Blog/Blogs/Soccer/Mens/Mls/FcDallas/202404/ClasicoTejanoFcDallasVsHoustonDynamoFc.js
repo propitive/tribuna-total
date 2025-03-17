@@ -11,9 +11,7 @@ function ClasicoTejanoFcDallasVsHoustonDynamoFc() {
   return (
     <>
       <Helmet>
-        <title>
-          Clasico Tejano Fc Dallas vs Houston Dyanmo Fc | Avanti Enterprises
-        </title>
+        <title>Clasico Tejano Fc Dallas vs Houston Dyanmo Fc</title>
         <meta
           name="description"
           content="FC Dallas vence 2-0 a Houston Dynamo en el clásico tejano con goles de Petar Musa y Sebastien Ibeagha ante 20,000 fans en Frisco."
