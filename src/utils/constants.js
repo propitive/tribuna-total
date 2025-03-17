@@ -42,7 +42,7 @@ export const SidebarData = [
 
 export const dropdownSidebarContentMenu = {
   id: 1,
-  title: "Soccer",
+  title: "Fútbol",
   content: [
     {
       link: "/soccer/mens/mls/fc-dallas",

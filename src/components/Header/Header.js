@@ -102,7 +102,7 @@ function Header({ handleOpenModal }) {
             onMouseEnter={() => setIsDropdown(true)}
             onMouseLeave={() => setIsDropdown(false)}
           >
-            Soccer
+            Fútbol
             <button
               className={
                 "header__list-item-triangle " + triangleButtonClassName

@@ -36,7 +36,7 @@ function FcDallasIniciaLaTemporadaConDerrotaEnCasaAnteChicagoFire() {
       >
         <BlogParagraph
           blogParagraph={
-            "El primer partido de la temporada de la Major League Soccer (MLS) se jugó este pasado sábado 7 de marzo a las 7:30 p.m. en el Toyota Stadium. Con la presencia de una cantidad limitada de aficionados (11,400), que representaron solo un 60% de la capacidad del estadio, debido tanto a las renovaciones en curso por las obras que el estadio esta realizando para agrandar sus tribunas y mas fanáticos puedan disfrutar de cada juego  como las bajas temperaturas y las lluvias que afectaron a la ciudad de Dallas, el ambiente estaba cargado de pasión y emoción."
+            "El primer partido de la temporada de la Major League Soccer (MLS) se jugó este pasado sábado 8 de marzo a las 7:30 p.m. en el Toyota Stadium. Con la presencia de una cantidad limitada de aficionados (11,400), que representaron solo un 60% de la capacidad del estadio, debido tanto a las renovaciones en curso por las obras que el estadio esta realizando para agrandar sus tribunas y mas fanáticos puedan disfrutar de cada juego  como las bajas temperaturas y las lluvias que afectaron a la ciudad de Dallas, el ambiente estaba cargado de pasión y emoción."
           }
         />
         <BlogImage

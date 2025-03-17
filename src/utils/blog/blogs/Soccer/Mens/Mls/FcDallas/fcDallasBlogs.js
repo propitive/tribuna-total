@@ -24,7 +24,7 @@ export const fcDallasBlogs = [
     link: "/soccer/mens/mls/fc-dallas/fc-dallas-inicia-la-temporada-con-derrota-en-casa-ante-chicago-fire",
     image: mar122025,
     alt: "FC Dallas' dribbling the ball forward.",
-    timeOfPost: "Mar 12, 2025",
+    timeOfPost: "Mar 8, 2025",
     title:
       "Fc Dallas inicia la temporada con derrota en casa ante Chicago Fire",
     author: "Felipe de Jesus Alcala",
