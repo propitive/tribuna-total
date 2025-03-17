@@ -14,7 +14,7 @@ function NorthTexasScAvanzaASemifinales() {
   return (
     <>
       <Helmet>
-        <title>North Texas SC Avanza A Semifinales </title>
+        <title>North Texas SC avanza a semifinales</title>
         <meta
           name="description"
           content="FC Dallas vence 2-1 a Sporting KC en el cierre de la MLS en Toyota Stadium. Goles de Petar Musa y un autogol de Fernández sellaron la victoria ante 19,096 fans."
@@ -29,7 +29,7 @@ function NorthTexasScAvanzaASemifinales() {
         blogAuthor={"Felipe de Jesus Alcala"}
         blogDate={"Oct 19, 2024"}
         blogPhotographer={"North Texas SC"}
-        blogTitle={"North Texas SC Avanza A Semifinales"}
+        blogTitle={"North Texas SC avanza a semifinales"}
       >
         <BlogParagraph
           blogParagraph={

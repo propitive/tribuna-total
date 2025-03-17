@@ -11,7 +11,7 @@ function FcDallasMandaAKansasCityFueraDePlayOffs() {
   return (
     <>
       <Helmet>
-        <title>Fc Dallas Manda a Kansas City Fuera De Play Offs</title>
+        <title>Fc Dallas manda a Kansas City fuera de play offs</title>
         <meta
           name="description"
           content="FC Dallas vence 2-1 a Sporting KC en el cierre de la MLS en Toyota Stadium. Goles de Petar Musa y un autogol de Fernández sellaron la victoria ante 19,096 fans."
@@ -26,7 +26,7 @@ function FcDallasMandaAKansasCityFueraDePlayOffs() {
         blogAuthor={"Felipe de Jesus Alcala"}
         blogDate={"Oct 19, 2024"}
         blogPhotographer={"FC Dallas"}
-        blogTitle={"Fc Dallas Manda a Kansas City Fuera De Play Offs"}
+        blogTitle={"Fc Dallas manda a Kansas City fuera de play offs"}
       >
         <BlogParagraph
           blogParagraph={

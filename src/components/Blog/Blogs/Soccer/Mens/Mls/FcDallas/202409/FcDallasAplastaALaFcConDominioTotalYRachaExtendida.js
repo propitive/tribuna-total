@@ -12,7 +12,7 @@ function FcDallasAplastaALaFcConDominioTotalYRachaExtendida() {
     <>
       <Helmet>
         <title>
-          FC Dallas Aplasta a LAFC con Dominio Total y Racha Extendida
+          Fc Dallas aplasta a LAFC con dominio total y racha extendida
         </title>
         <meta
           name="description"
@@ -29,7 +29,7 @@ function FcDallasAplastaALaFcConDominioTotalYRachaExtendida() {
         blogDate={"Sep 21, 2024"}
         blogPhotographer={"Dallas Morning News"}
         blogTitle={
-          "FC Dallas Aplasta a LAFC con Dominio Total y Racha Extendida"
+          "Fc Dallas aplasta a LAFC con dominio total y racha extendida"
         }
       >
         <BlogParagraph
