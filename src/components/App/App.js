@@ -16,6 +16,7 @@ import FcDallasAplastaALaFcConDominioTotalYRachaExtendida from "../Blog/Blogs/So
 import NocheDeCampeonatoEnElEstadioToyotaNorthTexasScEEnSuPaseALaFinal from "../Blog/Blogs/Soccer/Mens/MlsNextPro/NTxSC/202411/NocheDeCampeonatoEnElEstadioToyotaNorthTexasScEEnSuPaseALaFinal ";
 import DallasTrinityFcConsigueUnaVicotriaImportanteEnCasaYSePerfilanParaLaLiguilla from "../Blog/Blogs/Soccer/Womens/USL/DallasTrinity/202412/DallasTrinityFcConsigueUnaVicotriaImportanteEnCasaYSePerfilanParaLaLiguilla";
 import MansfieldLaNuevaCasaDeNorthTexasSc from "../Blog/Blogs/Soccer/Mens/MlsNextPro/NTxSC/202412/MansfieldLaNuevaCasaDeNorthTexasSc";
+import FcDallasIniciaLaTemporadaConDerrotaEnCasaAnteChicagoFire from "../Blog/Blogs/Soccer/Mens/Mls/FcDallas/202503/FcDallasIniciaLaTemporadaConDerrotaEnCasaAnteChicagoFire";
 
 function App() {
   const [modals, setModals] = useState({
@@ -42,6 +43,12 @@ function App() {
           path="/soccer/mens/mls/fc-dallas/fc-dallas-aplasta-a-la-fc-con-dominio-total-y-racha-extendida"
         >
           <FcDallasAplastaALaFcConDominioTotalYRachaExtendida />
+        </Route>
+        <Route
+          exact
+          path="/soccer/mens/mls/fc-dallas/fc-dallas-inicia-la-temporada-con-derrota-en-casa-ante-chicago-fire"
+        >
+          <FcDallasIniciaLaTemporadaConDerrotaEnCasaAnteChicagoFire />
         </Route>
         <Route
           exact

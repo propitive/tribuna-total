@@ -1,10 +1,25 @@
 import apr182024 from "../../../../../../../images/blogCovers/202404/celebration.jpg";
 import sep212024 from "../../../../../../../images/blogCovers/202409/crowd.jpg";
 import nov192024 from "../../../../../../../images/blogCovers/202410/celebrationKSLandscape.png";
+import mar122025 from "../../../../../../../images/blogCovers/202503/cFire1.jpeg";
 
 import fcDallasLogo from "../../../../../../../images/teams/soccer/mens/mls/fcDallas.png";
 
 export const fcDallasBlogs = [
+  {
+    link: "/soccer/mens/mls/fc-dallas/fc-dallas-inicia-la-temporada-con-derrota-en-casa-ante-chicago-fire",
+    image: mar122025,
+    alt: "FC Dallas' dribbling the ball forward.",
+    timeOfPost: "Mar 12, 2025",
+    title:
+      "Fc Dallas inicia la temporada con derrota en casa ante Chicago Fire",
+    author: "Felipe de Jesus Alcala",
+    keyword: "FC DALLAS",
+    teamName: "FC Dallas",
+    headerSubtitle: "vs Chicago Fire",
+    teamLogo: fcDallasLogo,
+    id: 4,
+  },
   {
     link: "/soccer/mens/mls/fc-dallas/fc-dallas-manda-a-kansas-city-fuera-de-play-offs",
     image: nov192024,
