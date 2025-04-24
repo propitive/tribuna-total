@@ -7,6 +7,7 @@ import dec082024 from "../../images/blogCovers/202412/trinityDribbling.PNG";
 import dec302024 from "../../images/blogCovers/202412/businessMen.jpg";
 import mar122025 from "../../images/blogCovers/202503/cFire1.jpeg";
 import mar152025 from "../../images/blogCovers/202503/vancouver2.jpg";
+import apr192025 from "../../images/blogCovers/202504/dribbling.PNG";
 
 import fcDallasLogo from "../../images/teams/soccer/mens/mls/fcDallas.png";
 import northTexasSc from "../../images/teams/soccer/mens/mlsnextpro/northTexasSc.png";
@@ -14,13 +15,26 @@ import dallasTrinity from "../../images/teams/soccer/womens/usl/dallasTrinity.pn
 
 export const generalBlogs = [
   {
+    link: "/soccer/womens/USL/DallasTrinity/suma-un-punto-en-casa",
+    image: apr192025,
+    alt: "Dallas Trinity player dribbling the ball.",
+    timeOfPost: "Apr 19, 2025",
+    title: "Suma Un Punto En Casa",
+    author: "Felipe de Jesus Alcala",
+    keyword: "Dallas Trinity FC",
+    teamName: "Dallas Trinity FC",
+    headerSubtitle: "vs Fort Lauderdale United FC",
+    teamLogo: dallasTrinity,
+    id: 10,
+  },
+  {
     link: "/soccer/mens/mls/fc-dallas/fc-dallas-cae-en-casa-ante-vancouver-y-sigue-sin-levantar-cabeza",
     image: mar152025,
     alt: "FC Dallas' dribbling the ball forward.",
     timeOfPost: "Mar 15, 2025",
     title: "Fc Dallas cae en casa ante Vancouver y sigue sin levantar cabeza",
     author: "Felipe de Jesus Alcala",
-    keyword: "FC DALLAS",
+    keyword: "Fc Dallas",
     teamName: "Fc Dallas",
     headerSubtitle: "vs Vancouver Whitecaps",
     teamLogo: fcDallasLogo,
@@ -34,7 +48,7 @@ export const generalBlogs = [
     title:
       "Fc Dallas inicia la temporada con derrota en casa ante Chicago Fire",
     author: "Felipe de Jesus Alcala",
-    keyword: "FC DALLAS",
+    keyword: "Fc Dallas",
     teamName: "Fc Dallas",
     headerSubtitle: "vs Chicago Fire",
     teamLogo: fcDallasLogo,
@@ -101,7 +115,7 @@ export const generalBlogs = [
     timeOfPost: "Oct 19, 2024",
     title: "Fc Dallas manda a Kansas City fuera de play offs",
     author: "Felipe de Jesus Alcala",
-    keyword: "FC DALLAS",
+    keyword: "Fc Dallas",
     teamName: "Fc Dallas",
     headerSubtitle: "vs Kansas City",
     teamLogo: fcDallasLogo,
@@ -114,7 +128,7 @@ export const generalBlogs = [
     timeOfPost: "Sep 21, 2024",
     title: "Fc Dallas aplasta a LAFC con dominio total y racha extendida",
     author: "Jose Maldonado VI",
-    keyword: "FC DALLAS",
+    keyword: "Fc Dallas",
     teamName: "Fc Dallas",
     headerSubtitle: "vs LAFC",
     teamLogo: fcDallasLogo,
@@ -127,7 +141,7 @@ export const generalBlogs = [
     timeOfPost: "April 18, 2024",
     title: "Classico Tejano Fc Dallas vs Houston Dynamo",
     author: "Felipe de Jesus Alcala",
-    keyword: "FC DALLAS",
+    keyword: "Fc Dallas",
     teamName: "Fc Dallas",
     headerSubtitle: "vs Houston Dyanmo",
     teamLogo: fcDallasLogo,

@@ -18,6 +18,7 @@ import DallasTrinityFcConsigueUnaVicotriaImportanteEnCasaYSePerfilanParaLaLiguil
 import MansfieldLaNuevaCasaDeNorthTexasSc from "../Blog/Blogs/Soccer/Mens/MlsNextPro/NTxSC/202412/MansfieldLaNuevaCasaDeNorthTexasSc";
 import FcDallasIniciaLaTemporadaConDerrotaEnCasaAnteChicagoFire from "../Blog/Blogs/Soccer/Mens/Mls/FcDallas/202503/FcDallasIniciaLaTemporadaConDerrotaEnCasaAnteChicagoFire";
 import FcDallasCaeEnCasaAnteVancouverYSigueSinLevantarCabeza from "../Blog/Blogs/Soccer/Mens/Mls/FcDallas/202503/FcDallasCaeEnCasaAnteVancouverYSigueSinLevantarCabeza";
+import SumaUnPuntoEnCasa from "../Blog/Blogs/Soccer/Womens/USL/DallasTrinity/202504/SumaUnPuntoEnCasa";
 
 function App() {
   const [modals, setModals] = useState({
@@ -89,6 +90,12 @@ function App() {
           path="/soccer/womens/USL/DallasTrinity/dallas-trinity-fc-consigue-una-vicotria-importante-en-casa-y-se-perfilan-para-la-liguilla"
         >
           <DallasTrinityFcConsigueUnaVicotriaImportanteEnCasaYSePerfilanParaLaLiguilla />
+        </Route>
+        <Route
+          exact
+          path="/soccer/womens/USL/DallasTrinity/suma-un-punto-en-casa"
+        >
+          <SumaUnPuntoEnCasa />
         </Route>
         <Route path="/">
           <Main />
