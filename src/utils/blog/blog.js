@@ -8,12 +8,26 @@ import dec302024 from "../../images/blogCovers/202412/businessMen.jpg";
 import mar122025 from "../../images/blogCovers/202503/cFire1.jpeg";
 import mar152025 from "../../images/blogCovers/202503/vancouver2.jpg";
 import apr192025 from "../../images/blogCovers/202504/dribbling.PNG";
+import apr262025 from "../../images/blogCovers/202504/header.PNG";
 
 import fcDallasLogo from "../../images/teams/soccer/mens/mls/fcDallas.png";
 import northTexasSc from "../../images/teams/soccer/mens/mlsnextpro/northTexasSc.png";
 import dallasTrinity from "../../images/teams/soccer/womens/usl/dallasTrinity.png";
 
 export const generalBlogs = [
+  {
+    link: "/soccer/womens/USL/DallasTrinity/dallas-trinity-fc-se-impone-en-casa-con-una-clara-victoria",
+    image: apr262025,
+    alt: "Dallas Trinity player headering the ball.",
+    timeOfPost: "Apr 26, 2025",
+    title: "Dallas Trinity Fc se impone en casa con una clara victoria",
+    author: "Felipe de Jesus Alcala",
+    keyword: "Dallas Trinity FC",
+    teamName: "Dallas Trinity FC",
+    headerSubtitle: "vs Lexington SC",
+    teamLogo: dallasTrinity,
+    id: 11,
+  },
   {
     link: "/soccer/womens/USL/DallasTrinity/suma-un-punto-en-casa",
     image: apr192025,
